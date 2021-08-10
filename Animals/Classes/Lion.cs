@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
-using ThreeDesingPatternsApp.Animals.Classes;
 using ThreeDesingPatternsApp.Animals.Observers;
 
 namespace ThreeDesingPatternsApp.Animals
